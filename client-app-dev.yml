@@ -1,3 +1,5 @@
-app:
-  info:
-    test: nie-wiem
+server:
+  port: 8086
+spring:
+  security:
+    enabled: false
